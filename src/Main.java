@@ -1,7 +1,8 @@
 // Zou de code nog werken met comments er in? Vraag ik me af!
 public class Main {
     public static void main(String[] args) {
-        IntroductieClass tijdelijk = new IntroductieClass();
+        IntroductieClass tijdelijk = new IntroductieClass("Stijn");
+        IntroductieClass tijdelijk2 = new IntroductieClass("Niels");
     }
 
 }
